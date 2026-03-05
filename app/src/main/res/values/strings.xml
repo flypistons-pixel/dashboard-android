@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dashboard</string>
+    <string name="kpi_cpu">CPU</string>
+    <string name="kpi_mem">Memoria</string>
+    <string name="kpi_net">Red ↓</string>
+    <string name="kpi_alerts">Alertas</string>
+</resources>
